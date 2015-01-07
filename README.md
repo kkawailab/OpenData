@@ -1,4 +1,2 @@
 OpenData
 ========
-
-Open Data カタログ
